@@ -4,7 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
-## Table of contents
+## Table of contents (Given below)
 
 * [Installation](#Installation)
 * [Features](#Features)
